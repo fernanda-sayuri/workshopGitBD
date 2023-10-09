@@ -1,0 +1,27 @@
+Exercício 1: Selecione todos os clientes (nomes).
+
+Exercício 2: Selecione todos os pedidos feitos por um cliente específico (por exemplo, cliente com id=1).
+
+Exercício 3: Calcule o valor total de pedidos para cada cliente.
+
+Exercício 4: Selecione todos os itens de pedido de um pedido específico (por exemplo, pedido com id=1).
+
+Exercício 5: Selecione os produtos distintos que foram pedidos.
+
+Exercício 6: Calcule o total de cada pedido.
+
+Exercício 7: Selecione todos os clientes que fizeram pelo menos 3 pedidos.
+
+Exercício 8: Selecione os clientes que não fizeram nenhum pedido.
+
+Exercício 9: Liste os clientes e a quantidade de pedidos que eles fizeram.
+
+Exercício 10: Calcule o preço médio de cada produto.
+
+Exercício 11: Selecione os produtos que foram pedidos mais de 5 vezes.
+
+Exercício 12: Selecione os clientes que fizeram pelo menos um pedido com um total superior a 200.
+
+Exercício 13: Selecione os clientes que fizeram um pedido de pelo menos $100 em um único pedido.
+
+Exercício 14: Selecione os produtos que foram pedidos por clientes que fizeram pelo menos 2 pedidos.
